@@ -231,3 +231,20 @@ h1, h2 {
     transform: scale(1.1);
     box-shadow: 0 0 8px rgba(0, 209, 255, 0.7);
 }
+.tipo-seleccionado {
+  margin-left: 10px;
+  font-style: italic;
+  color: #00d1ff;
+}
+.tipo-seleccionado {
+  margin-left: 10px;
+  font-style: italic;
+  color: #00d1ff;
+}
+
+.icono-mini {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  margin-right: 5px;
+}
